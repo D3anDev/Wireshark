@@ -1,2 +1,3 @@
-# Wireshark
-Networking experiments using Wireshark focused on traffic capture, analysis, and troubleshooting. Includes documentation and write-ups on identifying vulnerabilities, detecting insecure traffic, and securing networks through practical packet analysis.
+# Wireshark Networking Experiments and Documentation
+
+This repository documents my networking experiments and projects using Wireshark. It covers various aspects of network traffic capture, detailed analysis, and troubleshooting techniques. Included are comprehensive write-ups and general documentation that explain my hands-on experiences with Wireshark — from identifying vulnerabilities and detecting insecure protocols to analyzing suspicious traffic patterns. My goal is to demonstrate how effective packet analysis can enhance network security by uncovering and addressing potential threats.
